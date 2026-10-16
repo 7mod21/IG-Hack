@@ -1,6 +1,6 @@
 try:import random,time;from platform import *;from requests import post;sysname=system()
 except Exception as JQ:print(f'[!] Download The Missing Module ! , {JQ}');exit()
-
+44pk
 
 ID='2989849484984'#Telegram id
 token='8487487:oiaduisdfuin651561sf6'#Telegram bot token
